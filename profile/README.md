@@ -1,9 +1,9 @@
 <p align="center">
-  picture
+  <img width="250" alt="icon 1" src="https://github.com/user-attachments/assets/32f02522-acc5-418e-8e58-d41584dab6b0" />
 </p>
 
 <p align="center">
-text
+Chase Love, Chase Fun
 </p>
 
 <p align="center">
