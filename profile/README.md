@@ -36,8 +36,12 @@ Chase Love, Chase Fun
 <a href="https://aqira.app/#features">
     <img src="https://img.shields.io/badge/Features-orange?style=flat-square" />
   </a>
-  <a href="https://github.com/Aqira-Social/Docs">
+  <a href="https://aqira.app/#faqs">
+    <img src="https://img.shields.io/badge/Faq-purple?style=flat-square" />
+  </a>
+<a href="https://github.com/Aqira-Social/Docs">
     <img src="https://img.shields.io/badge/Developer%20Docs-Read-black?style=flat-square" />
+  
   </a>
 </p>
 
