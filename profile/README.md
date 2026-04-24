@@ -10,8 +10,8 @@ Chase Love, Chase Fun
   <a href="https://www.aqira.app/">
     <img src="https://img.shields.io/badge/Website-aqira.app-000?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Aqira-Social">
-    <img src="https://img.shields.io/badge/GitHub-Aqira-Social-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/Aqira-Social">
+    <img src="https://img.shields.io/badge/GitHub-AqiraSocial-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Aqira-Social/Docs">
     <img src="https://img.shields.io/badge/Docs-Developer%20Guide-blue?style=for-the-badge" />
