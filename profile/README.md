@@ -17,8 +17,8 @@ Chase Love, Chase Fun
     <img src="https://img.shields.io/badge/Docs-Developer%20Guide-blue?style=for-the-badge" />
   </a>
     <a href="https://twitter.com/intent/follow?screen_name=aqiraapp">
-    <img src="https://img.shields.io/twitter/follow/aqiraapp.svg?label=Follow%20@aqiraapp" alt="Follow @aqiraapp on X" />
-  </a>
+  <img src="https://img.shields.io/badge/Twitter-Aqiraapp-181717?style=for-the-badge&logo=twitter" />
+    </a>
 </p>
 
 ---
